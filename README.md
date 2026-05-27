@@ -95,6 +95,7 @@ HTML CSS JavaScript Git GitHub VS Code Responsive Design LocalStorage API
 
 📫 Connect With Me
 
-📧 Email: [your-email@gmail.com](mailto:your-email@gmail.com)
+📧 Email: bobbyurade24@gmail.com
 
-🔗 GitHub: https://github.com/your-github-username
+🔗 GitHub: https://github.com/Bobby240605
+
